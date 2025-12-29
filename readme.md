@@ -1,24 +1,3 @@
-## 🐍 Snake das Contribuições
-
-![snake gif](https://github.com/${{ github.repository_owner }}/vinicius-pascoal/blob/output/github-contribution-grid-snake.svg)
-
-<details>
-<summary>Como gerar a animação Snake automaticamente?</summary>
-
-Adicione o seguinte ao seu workflow do GitHub Actions:
-
-```yaml
-- uses: Platane/snk@v3
-    with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-```
-
-Veja mais em: [Platane/snk](https://github.com/Platane/snk)
-</details>
 # Olá, eu sou Vinicius Pascoal Queiroz Maynard! 👋
 
 Desenvolvedor de software. Minha expectativa é unir a construção de sistemas com a análise de dados para gerar insights.
@@ -73,3 +52,5 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 </div>
 
 ---
+
+![snake gif](https://github.com/vinicius-pascoal/vinicius-pascoal/blob/output/github-contribution-grid-snake.svg)
