@@ -53,4 +53,4 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 
 ---
 
-![snake gif](https://github.com/vinicius-pascoal/vinicius-pascoal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vinicius-pascoal/vinicius-pascoal/blob/output/github-snake-dark.svg)
