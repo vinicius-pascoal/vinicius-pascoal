@@ -4,7 +4,7 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 
 - 🗺️  Moro em Aracaju/SE, Brasil.
 - 📚  Cursando Ciências da Computação, UNIT (8º Período).
-- 🎯  Atualmente, meu foco de estudo está direcionado ao ecossistema de Dados com Python, aprofundando meus conhecimentos em bibliotecas como Pandas, NumPy e Scikit-learn.
+- 🎯  Atualmente, meu foco de estudo está direcionado a desenvolvimento web tanto front-end quanto back-end, utilizando principalmente react e node.
 - 📫  Sinta-se à vontade para se conectar comigo!
 
 ---
@@ -13,6 +13,7 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 <div style="display:inline_block">
     <a href="https://www.linkedin.com/in/vinicius-pascoal-queiroz-maynard-38854024a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:vinciuspascoal013@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&labelColor=000"></a>
+    <a href="https://viniciusp-portfolio.vercel.app"><img src="https://img.shields.io/badge/-portfólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&labelColor=000"></a>
 </div>
 
 ---
