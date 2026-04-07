@@ -1,5 +1,7 @@
 # Olá, eu sou Vinicius Pascoal Queiroz Maynard! 👋
 
+![room](./imgs/room.png)
+
 Desenvolvedor de software. Minha expectativa é unir a construção de sistemas com a análise de dados para gerar insights.
 
 - 🗺️  Moro em Aracaju/SE, Brasil.
@@ -63,3 +65,6 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 ---
 
 ![snake gif](https://github.com/vinicius-pascoal/vinicius-pascoal/blob/output/github-snake-dark.svg)
+
+---
+<img src="./imgs/lotus.png" alt="lotus" height="150" />
