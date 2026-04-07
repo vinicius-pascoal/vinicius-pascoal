@@ -65,6 +65,3 @@ Desenvolvedor de software. Minha expectativa é unir a construção de sistemas 
 ---
 
 ![snake gif](https://github.com/vinicius-pascoal/vinicius-pascoal/blob/output/github-snake-dark.svg)
-
----
-<img src="./imgs/lotus.png" alt="lotus" height="150" />
