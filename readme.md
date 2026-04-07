@@ -2,12 +2,14 @@
 
 ![room](./imgs/room.png)
 
-Desenvolvedor de software. Minha expectativa é unir a construção de sistemas com a análise de dados para gerar insights.
+Sou desenvolvedor de software em formação, com foco em desenvolvimento web full stack, aplicações mobile com Flutter e jogos com Unity, buscando criar soluções com impacto real.
 
 - 🗺️  Moro em Aracaju/SE, Brasil.
-- 📚  Cursando Ciências da Computação, UNIT (8º Período).
-- 🎯  Atualmente, meu foco de estudo está direcionado a desenvolvimento web tanto front-end quanto back-end, utilizando principalmente react e node.
-- 📫  Sinta-se à vontade para se conectar comigo!
+- 🎓  Estudante de Ciências da Computação na UNIT (8º período).
+- 🎯  Foco atual: desenvolvimento web full stack, com ênfase em React, Node.js e arquitetura de aplicações.
+- 📱  Também desenvolvo aplicações mobile com Flutter.
+- 🎮  Interesse e prática em desenvolvimento de jogos com Unity.
+- 📫  Sinta-se à vontade para se conectar comigo.
 
 ---
 
