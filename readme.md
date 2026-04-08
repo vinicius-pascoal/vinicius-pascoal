@@ -1,4 +1,4 @@
-# Olá, eu sou Vinicius Pascoal Queiroz Maynard! 👋
+# Olá, eu sou Vinicius Pascoal Queiroz Maynard
 
 ![room](./imgs/room.png)
 
